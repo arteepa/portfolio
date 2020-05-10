@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*  Mixins */
 /*  Fonts */
-/* --------------------------------------------------------------- 
+/* ---------------------------------------------------------------
    Google Fonts
 -----------------------------------------------------------------*/
 @import "https://fonts.googleapis.com/css?family=Poppins:100,200,400,500,600,700,800|Nunito:300,400,600,700,800";
@@ -1315,11 +1315,10 @@ Main Menu
           position: relative;
           font-family: "Poppins", sans-serif;
           padding: 10px 12px;
-          text-transform: uppercase;
           font-size: 12px;
           font-weight: 600;
           letter-spacing: 0.6px;
-          color: #000000;
+          color: #7a7a7a;
           border-radius: 0;
           border-width: 0;
           border-style: solid;
@@ -2184,7 +2183,7 @@ Main Menu: Responsive
       margin-left: 0; }
 
   .mainMenu-open {
-      /*          
+      /*
         &.dark,
         #header:not(.submenu-light).dark {
 
@@ -12772,7 +12771,7 @@ select {
   font-size: 1.2rem; }
 
 /* .form-group {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     +.btn {
         margin-left: -4px;
         border-top-left-radius: 0 !important;
@@ -12829,7 +12828,7 @@ select {
     }
 }
  */
-/* 
+/*
 input[type="checkbox"].form-control {
     float: left;
     width: auto;
